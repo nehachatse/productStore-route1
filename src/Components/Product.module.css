@@ -1,0 +1,24 @@
+table{
+    margin: 30px auto;
+    border-collapse: collapse;
+    width: 60%;
+}
+
+thead{
+    background-color: orangered;
+    color: white
+}
+table td, table th{
+    border: 1px solid gray;
+    padding: 0.5rem;
+}
+tbody tr:hover {
+    background-color: #ddd;
+}
+
+.link{
+    color: green;
+    text-decoration: underline;
+    cursor: pointer;
+    
+}

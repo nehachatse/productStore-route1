@@ -1,4 +1,5 @@
-{ "product" :[  
+{ 
+    "product" :[  
         { "name" : "SmartPhone", "price": 30, "id" : 0 }, 
         { "name" : "Watch", "price" : 20, "id" : 1 }, 
         { "name" : "Shirt", "price" : 50, "id" : 2 }, 
